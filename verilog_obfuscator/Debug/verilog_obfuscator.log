@@ -1,0 +1,26 @@
+﻿生成启动时间为 9/5/2015 4:12:40 PM。
+     1>项目“E:\707所雷达图像压缩\verilog_obfuscator\v_o_git_test\verilog_obfuscator\verilog_obfuscator.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt get_var.cpp main.cpp rand_str.cpp replace_var.cpp variable.cpp
+         variable.cpp
+         replace_var.cpp
+     1>e:\707所雷达图像压缩\verilog_obfuscator\v_o_git_test\verilog_obfuscator\lib\parameter.h(4): warning C4081: 应输入“newline”；找到“;”
+         rand_str.cpp
+         main.cpp
+     1>e:\707所雷达图像压缩\verilog_obfuscator\v_o_git_test\verilog_obfuscator\lib\parameter.h(4): warning C4081: 应输入“newline”；找到“;”
+         get_var.cpp
+     1>e:\707所雷达图像压缩\verilog_obfuscator\v_o_git_test\verilog_obfuscator\get_var.cpp(1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>e:\707所雷达图像压缩\verilog_obfuscator\v_o_git_test\verilog_obfuscator\lib\parameter.h(4): warning C4081: 应输入“newline”；找到“;”
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\707所雷达图像压缩\verilog_obfuscator\v_o_git_test\Debug\verilog_obfuscator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\707所雷达图像压缩\verilog_obfuscator\v_o_git_test\Debug\verilog_obfuscator.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\707所雷达图像压缩\verilog_obfuscator\v_o_git_test\Debug\verilog_obfuscator.lib" /MACHINE:X86 Debug\get_var.obj
+         Debug\main.obj
+         Debug\rand_str.obj
+         Debug\replace_var.obj
+         Debug\variable.obj
+         verilog_obfuscator.vcxproj -> E:\707所雷达图像压缩\verilog_obfuscator\v_o_git_test\Debug\verilog_obfuscator.exe
+     1>已完成生成项目“E:\707所雷达图像压缩\verilog_obfuscator\v_o_git_test\verilog_obfuscator\verilog_obfuscator.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.05
